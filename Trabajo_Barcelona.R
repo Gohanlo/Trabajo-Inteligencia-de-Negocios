@@ -98,6 +98,5 @@ Datos_4ºTrimestre %>%
 miss_var_summary(Datos_4ºTrimestre)
 
 
-
-
+# Hola
 
